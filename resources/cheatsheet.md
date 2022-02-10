@@ -34,3 +34,12 @@ Delete everything in a directory with confirmation:
 ```
 rm -iR directory
 ```
+
+Move/Rename a file/folder:
+```
+mv file/folder directory
+mv file/folder new_file/folder
+```
+This will move the file/folder to the directory you want it to be in. This can also change the name of the file/folder by replacing the directory with the desired new file/folder name.
+
+
